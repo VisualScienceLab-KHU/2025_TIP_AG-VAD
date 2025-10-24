@@ -1,1 +1,7 @@
 # AG-VAD
+
+This is the official PyTorch implementation of our system:
+**"AG-VAD: Adaptive Audio Guidance for Weakly Supervised Video Anomaly Detection"**
+
+## 🔍 Acknowledgments
+This work was supported by the National Research Foundation of Korea (NRF) grant funded by the Korea government (MSIT)(RS-2024-00456589) and Institute of Information & communications Technology Planning & Evaluation (IITP) grant funded by the Korea government (MSIT) (No. RS-2025-02263277 and RS-2022-00155911, Artificial Intelligence Convergence Innovation Human Resources Development (Kyung Hee University)).
